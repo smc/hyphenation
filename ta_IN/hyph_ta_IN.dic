@@ -1,6 +1,6 @@
 UTF-8
 %  Hyphenation for Tamil
-%  Copyright (C) 2016 Santhosh Thottingal (santhosh dot thottingal at gmail dot com)
+%  Copyright (C) 2018 Santhosh Thottingal (santhosh dot thottingal at gmail dot com)
 %  
 %  Permission is hereby granted, free of charge, to any person obtaining
 %  a copy of this software and associated documentation files (the
@@ -99,5 +99,5 @@ UTF-8
 2ஂ1
 2ஃ1
 2ௗ1
-% Do not break before virama but break after virama.
-2்1
+% Do not break either side of  virama
+2்2
